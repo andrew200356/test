@@ -1,2 +1,2 @@
 # test
-just for testing how to use repository
+This is a test repository for Andrew
